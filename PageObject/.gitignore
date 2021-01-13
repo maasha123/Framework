@@ -1,0 +1,11 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+*.project
+# Maven
+log/
+target/
+.settings/
+*.classpath
+src/main/
